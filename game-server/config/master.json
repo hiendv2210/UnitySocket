@@ -1,7 +1,7 @@
 {
     "development":{
         "id":"master-server-1",
-        "host":"127.0.0.1",
+        "host":"182.48.50.239",
         "port":3005,
         "queryPort":3015,
         "wsPort":2337
@@ -9,7 +9,7 @@
 
     "production":{
         "id":"master-server-1",
-        "host":"127.0.0.1",
+        "host":"182.48.50.239",
         "port":3005,
         "queryPort":3015,
         "wsPort":2337
