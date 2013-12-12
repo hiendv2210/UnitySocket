@@ -19,6 +19,7 @@ var handler = Handler.prototype;
 handler.enter = function(msg, session, next) {
 	var self = this;
 	var rid = msg.rid;
+	var rid = "A1";
 	var uid = msg.username + '*' + rid
 	var sessionService = self.app.get('sessionService');
 
